@@ -21,4 +21,8 @@ for each domain will be unknown.
 ** the difference from V1 is the domains are random for this one.
 """
 
+import random
+import string
+import csv
 list_of_domains = ['supersqa.com', 'gmail.com', 'yahoo.com', 'outlook.com', 'msn.com']
+to
