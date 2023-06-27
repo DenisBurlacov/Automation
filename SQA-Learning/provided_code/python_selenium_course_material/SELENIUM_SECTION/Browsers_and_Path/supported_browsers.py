@@ -16,5 +16,5 @@ from selenium import webdriver
 # driver.get('http://demostore.supersqa.com')
 
 ### Safari
-driver = webdriver.Safari()
+driver = webdriver.Chrome()
 driver.get('http://demostore.supersqa.com')
